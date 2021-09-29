@@ -2,4 +2,4 @@
 Desafio de Projeto sobre Git/GitHub
 
 ## Links Úteis:
-[Sistaxe básica Markdown](markdownguide.org/basic-syntax/)
+[Sistaxe básica Markdown](https://markdownguide.org/basic-syntax/)
